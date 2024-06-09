@@ -1,6 +1,6 @@
 # Blue Widgets
 
-IntelliJ/Anroid Studio color scheme specifically for Flutter/Dart. Alternative to the default Darcula theme.
+IntelliJ/Android Studio color scheme specifically for Flutter/Dart. Alternative to the default Darcula theme.
 
 (Also recommend [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets) plugin)
 
