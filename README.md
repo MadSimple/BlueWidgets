@@ -4,7 +4,7 @@ IntelliJ/Android Studio color scheme specifically for Flutter/Dart. Alternative 
 
 (Also recommend [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets) plugin)
 
-![Blue_Widgets](https://github.com/MadSimple/BlueWidgets/assets/92187165/6f80a730-8910-4f71-84ac-16978be510ac)
+![image](https://github.com/MadSimple/BlueWidgets/assets/92187165/ce2ab9ea-15d7-4469-b324-d38db59ebd5c)
 
 # Installing
 
